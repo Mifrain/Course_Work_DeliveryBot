@@ -10,15 +10,6 @@
 ## Установка программы
 
 1. `git clone https://git.miem.hse.ru/biv23x-ps/brgiliadov.git`
-2. Создай виртуальное окружение и подгрузи нужные библиотеки
-   `python -m venv venv`
-
-- Для Windows
-  `venv/Scripts/activate`
-- Для MacOS / Linux
-  `source venv/bin/activate`
-- Установка зависимостей
-  `pip install -r requirements.txt`
 
 ## Установка программы
 Виртуальная карта города по которой передвигается робот
