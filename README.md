@@ -14,7 +14,7 @@
 
 ## Установка программы
 
-1. `git clone https://git.miem.hse.ru/biv23x-ps/brgiliadov.git`
+1. `git clone https://github.com/Mifrain/Course_Work_DeliveryBot.git`
 
 ## Установка программы
 Виртуальная карта города по которой передвигается робот
